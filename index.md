@@ -1,5 +1,6 @@
-Privacy Policy for ERM
-ERM is a revenue, expense, and rental management tool designed for professionals. Your privacy is important to us, and we are committed to protecting your data.
+Privacy Policy for ERM  :
+
+ERM is a one stop rental management tool for everyone . Your privacy is important to us, and we are committed to protecting your data.
 
 1. Information We Collect
 We do not collect or store personal data on external servers. The data you enter, including rental items, customers, and transactions, is stored locally on your device or in your selected cloud storage.
