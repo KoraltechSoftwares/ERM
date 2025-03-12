@@ -1,0 +1,32 @@
+Privacy Policy for ERM
+ERM is a revenue, expense, and rental management tool designed for professionals. Your privacy is important to us, and we are committed to protecting your data.
+
+1. Information We Collect
+We do not collect or store personal data on external servers. The data you enter, including rental items, customers, and transactions, is stored locally on your device or in your selected cloud storage.
+
+2. Permissions We Require
+To provide the best experience, ERM may request access to:
+✅ Contacts – To allow you to select customers from your phone book.
+✅ Camera – To capture photos of rental items.
+These permissions are used only for app functionality, and we do not share or sell any of your data.
+
+3. Data Storage & Security
+All financial and rental records remain securely stored on your device.
+If cloud backup is enabled, data is stored securely using industry-standard encryption.
+You have full control over your data and can delete it at any time.
+
+4. Data Sharing
+We do not share, sell, or transfer any data to third parties. The only time you may share data is if you choose to export reports manually.
+
+Why Choose ERM?
+
+🚀 User-Friendly Interface – Simple and intuitive design.
+🔒 Secure & Private – Data remains on your device.
+📊 Efficient Business Tracking – Stay on top of your business finances.
+Download ERM today and take control of your rentals and finances!
+
+5. Changes to this Privacy Policy
+We may update this Privacy Policy occasionally. Any changes will be notified via in-app messages or updates on this page.
+
+6. Contact Us
+If you have any questions about this Privacy Policy, please contact us at https://www.koraltech.in/contact.
